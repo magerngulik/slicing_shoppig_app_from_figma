@@ -1,16 +1,14 @@
-# slicing_ui_shopping_apps
+# Slicing Figma ke Flutter SHOPPING APP 
+Merupakan Slicing UI aplikasi dari figma ke Flutter
+## Figma Design
+- [Referensi Design Figma](https://ui8.net/rakibull-hassan-80d341/products/e---learning-app)
+## Screenshot Aplikasi
+### Home, Login dan Register Screen
+![App Screenshot](https://raw.githubusercontent.com/magerngulik/slicing_ui_aplikasi_learning/main/assets/images/presentation%201.png)
+### Detail Product dan Cart Product Screen
+![App Screenshot](https://raw.githubusercontent.com/magerngulik/slicing_ui_aplikasi_learning/main/assets/images/presentation%201.png)
+### Checkout dan Popup Success Screen
+![App Screenshot](https://raw.githubusercontent.com/magerngulik/slicing_ui_aplikasi_learning/main/assets/images/presentation%201.png)
+## Demo Video
+[Demo](https://youtube.com/shorts/IQL8HXOuK0s?feature=share)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
